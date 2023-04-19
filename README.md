@@ -39,12 +39,20 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 ---
 
+其他的Paper Reading
+
 ### \[开源AIGC\] 项目大整理 Diffusers, Disco, DiT, SDE大整理
 
 [https://zhuanlan.zhihu.com/p/600567701](https://zhuanlan.zhihu.com/p/600567701)
 
+### \[ECCV开源文章整理\]AIGC和GAN相关 以及不开源的部分工作
 
-其他的Paper Reading
+[https://zhuanlan.zhihu.com/p/599575168](https://zhuanlan.zhihu.com/p/599575168)
+
+### \[ECCV2022 开源整理\] VR & 360 & 体积视频相关
+
+[https://zhuanlan.zhihu.com/p/599165404](https://zhuanlan.zhihu.com/p/599165404)
+
 
 ## TODO
 
