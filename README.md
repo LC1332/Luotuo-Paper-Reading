@@ -16,12 +16,16 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 + 如果你感到这个页面对你有帮助，拜托您去我们[骆驼的主页](https://github.com/LC1332/Luotuo-Chinese-LLM)也点上star，非常感谢！
 
+**本项目正在招募一个小编，我希望你发表过一篇CCF-B类以上会议的论文，或者以在读硕士/博士身份加入了一个年平均超过2篇CCF-A类以上会议论文的实验室。并且对维护这个paper reading有兴趣。**
+
 <a name="sponsorship"></a>
 
 
 ## 论文概览
 
 语言模型相关的Paper Reading
+
+
 
 ---
 
