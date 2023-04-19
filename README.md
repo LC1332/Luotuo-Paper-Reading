@@ -1,6 +1,6 @@
 <a name="BigTitle"></a>
 
-English | [赞助](#sponsorship) | [人员](#contributor)
+English | [赞助](#sponsorship) | [博文概览](#blogs) | [论文与git](#links) | [人员](#contributor)
 
 # 骆驼读论文: Paper Reading in the era of LLMs
 
@@ -18,8 +18,7 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 **本项目正在招募至少一个小编，我希望你发表过一篇CCF-B类以上会议的论文，或者以在读硕士/博士身份加入了一个年平均超过2篇CCF-A类以上会议论文的实验室。并且对维护这个paper reading有兴趣。**
 
-<a name="sponsorship"></a>
-
+<a name="blogs"></a>
 
 ## 论文概览
 
@@ -57,13 +56,19 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 [https://zhuanlan.zhihu.com/p/599097052](https://zhuanlan.zhihu.com/p/599097052)
 
+<a name="links"></a>
 
+## 论文与链接
+
+这里将是很多个表格
 
 ## TODO
 
-- [ ] 把知乎的链接都搬上来
+- [x] 把知乎的链接都搬上来
 - [ ] 准备一个父亲csv，把介绍部分变成自动生成
 - [ ] 准备儿子csv的样板，包括github链接，每个工作title，colab链接，以及自动生成子md做更详细的介绍
+
+<a name="sponsorship"></a>
 
 ## 赞助(Sponsorship) 骆驼项目
 
