@@ -84,6 +84,6 @@ If you are interested in sponsoring the [Luotuo Project](https://github.com/LC13
 
 更详细的整个骆驼项目相关的人员信息，请查看[骆驼项目的主页](https://github.com/LC1332/Luotuo-Chinese-LLM#%E8%B4%A1%E7%8C%AE%E8%80%85contributors)
 
-这个项目正在召集一个小编，我打算这个项目做成和丝绸魔法书一样是可以自动生成readme的，只要把内容填到每一期的excel中（这次可能要子母excel），再转化成csv，跑一遍生成脚本就可以。
+这个项目正在召集一个小编，我打算这个项目做成和[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book)一样是可以自动生成readme的，只要把内容填到每一期的excel中（这次可能要子母excel），再转化成csv，跑一遍生成脚本就可以。
 
 
