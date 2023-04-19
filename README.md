@@ -25,9 +25,24 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 语言模型相关的Paper Reading
 
+### 机器人GPT，单GPU千亿参数超大模型推断 等串读，斯坦福大佬Percy Liang最新13篇工作串读
 
+[https://zhuanlan.zhihu.com/p/622754642](https://zhuanlan.zhihu.com/p/622754642)
+
+### 斯坦福大佬Percy Liang一作，44位研究者联名，对于大语言模型的整体评估，GLM130B的得分很不错
+
+[https://zhuanlan.zhihu.com/p/622458940](https://zhuanlan.zhihu.com/p/622458940)
+
+### 我们蒸馏了OpenAI的特征，并用它分析了周杰伦的歌词，还打算复现360的Demo
+
+[https://zhuanlan.zhihu.com/p/622433896](https://zhuanlan.zhihu.com/p/622433896)
 
 ---
+
+### \[开源AIGC\] 项目大整理 Diffusers, Disco, DiT, SDE大整理
+
+[https://zhuanlan.zhihu.com/p/600567701](https://zhuanlan.zhihu.com/p/600567701)
+
 
 其他的Paper Reading
 
