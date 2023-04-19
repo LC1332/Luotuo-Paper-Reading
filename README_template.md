@@ -18,21 +18,6 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 <a name="sponsorship"></a>
 
-
-## 论文概览
-
-语言模型相关的Paper Reading
-
----
-
-其他的Paper Reading
-
-## TODO
-
-- [ ] 把知乎的链接都搬上来
-- [ ] 准备一个父亲csv，把介绍部分变成自动生成
-- [ ] 准备儿子csv的样板，包括github链接，每个工作title，colab链接，以及自动生成子md做更详细的介绍
-
 ## 赞助(Sponsorship) 骆驼项目
 
 如果你有兴趣赞助骆驼项目，请点击[主项目](https://github.com/LC1332/Luotuo-Chinese-LLM#%E8%B5%9E%E5%8A%A9sponsorships)或者查看[赞助表单](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/Sponsorship_and_balance.md)
