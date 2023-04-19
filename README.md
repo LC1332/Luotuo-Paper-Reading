@@ -53,6 +53,11 @@ English | [赞助](#sponsorship) | [人员](#contributor)
 
 [https://zhuanlan.zhihu.com/p/599165404](https://zhuanlan.zhihu.com/p/599165404)
 
+### ECCV2022开源工作整理，NeRF相关
+
+[https://zhuanlan.zhihu.com/p/599097052](https://zhuanlan.zhihu.com/p/599097052)
+
+
 
 ## TODO
 
