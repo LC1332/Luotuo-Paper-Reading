@@ -1,5 +1,10 @@
 # 【骆驼读论文】HuggingFace社区上 29个中文数据集的整理
 
+
+<p align="center">
+    <img src="images/paperReadingBack.png" height="350">
+</p>
+
 随着[骆驼项目](https://github.com/LC1332/Luotuo-Chinese-LLM)的整体进展，尽管大家都是在佛系干活，
 
 但是我们项目中涉及的数据集仍然越来越多。
