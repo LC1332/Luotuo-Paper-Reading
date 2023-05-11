@@ -150,10 +150,14 @@ https://huggingface.co/datasets/wikipedia
 
 各种语言的wiki数据，希望还能用
 
+---
 
-Top downloaded
 
- 
+## Top downloaded
+
+ <p align="center">
+    <img src="images/image008.png" height="350">
+</p>
 
 Helsinki大学是什么学校啊。。。为什么HuggingFace上涉及中文下载量最多的数据集是这个。。。
 
@@ -168,16 +172,27 @@ https://huggingface.co/datasets/xtreme/viewer/bucc18.zh/validation
 
 xtreme应该是翻译数据集
 
+ <p align="center">
+    <img src="images/image009.png" height="350">
+</p>
  
 
 Xnli是一个nlp的经典任务（就是判断一个hypothesis是不是在一个文本中被提到和验证）
 
 XNLI: Evaluating Cross-lingual Sentence Representations
 
+<p align="center">
+    <img src="images/image010.png" height="350">
+</p>
+
 这个应该是个经典论文，可以读一下。
 
  
 https://huggingface.co/datasets/mc4
+
+<p align="center">
+    <img src="images/image011.png" height="350">
+</p>
 
 MC4就是一个应该是今年发布的除了LAION以外比较大的一个图文数据集。
 
@@ -187,6 +202,10 @@ MC4就是一个应该是今年发布的除了LAION以外比较大的一个图文
 
 https://huggingface.co/datasets/common_voice/viewer/zh-CN/train
 
+<p align="center">
+    <img src="images/image012.png" height="350">
+</p>
+
 这个感觉随着wisper的开源，可能意义都不大了？？
 也可以反过来训练TTS
 
@@ -195,16 +214,26 @@ https://huggingface.co/datasets/common_voice/viewer/zh-CN/train
 
 https://huggingface.co/datasets/amazon_reviews_multi/viewer/zh/train
 
+<p align="center">
+    <img src="images/image013.png" height="350">
+</p>
+
 这个数据集的截图都把我逗笑了。。关键是他是按照低分排序在前面的。
 
- 
+---
+
 
 Hugging Face的搜索非常值得吐槽，我之前搜QA的时候就没有搜到这个MLQA
 
 https://huggingface.co/datasets/mlqa
 
+<p align="center">
+    <img src="images/image014.png" height="350">
+</p>
 
 这是个跨语言QA数据集，看起来挺有用的。
+
+---
 
 
 https://huggingface.co/datasets/iwslt2017/viewer/iwslt2017-zh-en/train
@@ -212,7 +241,10 @@ https://huggingface.co/datasets/iwslt2017/viewer/iwslt2017-zh-en/train
 231k 翻译数据
 
 
- 
+ <p align="center">
+    <img src="images/image015.png" height="350">
+</p>
+
 
 https://huggingface.co/datasets/csebuetnlp/xlsum/viewer/chinese_simplified/train
 
@@ -226,18 +258,26 @@ https://huggingface.co/datasets/news_commentary/viewer/en-zh/train
 
 https://huggingface.co/datasets/clue
 
- 
+  <p align="center">
+    <img src="images/image016.png" height="350">
+</p>
 
 你想训个花呗机器人吗。。。
 
+---
 
-Most Like
 
- 
+## Most Like排序
+
+ <p align="center">
+    <img src="images/image017.png" height="350">
+</p>
 
 https://huggingface.co/datasets/OpenAssistant/oasst1
 
 这个肯定第一了 这个不是中文的专门数据集，是OpenAssistant的聊天+人工标注 横跨35种语言，数据量有161k。
+
+---
 
 https://huggingface.co/datasets/JosephusCheung/GuanacoDataset
 
@@ -245,7 +285,7 @@ Guanaco也是非常早期觉察到可以去训练中文instruct模型的人之�
 
 他们的项目主要在Hugging Face页面维护的。
 
-
+---
  
 
 
@@ -253,13 +293,42 @@ https://huggingface.co/datasets/oscar
 
 这个好像和common crawl的清理有关系。
 
+ <p align="center">
+    <img src="images/image018.png" height="350">
+</p>
 
 
 https://huggingface.co/datasets/liwu/MNBVC
 
  
-
+ <p align="center">
+    <img src="images/image019.png" height="350">
+</p>
 
 https://huggingface.co/datasets/wangrui6/Zhihu-KOL
 
 对啊 数据怎么能少了知乎呢。。。
+
+ <p align="center">
+    <img src="images/image020.png" height="350">
+</p>
+
+---
+
+## 关于骆驼的数据
+
+因为我们使用的几个数据集 在翻译之前是有额外的license要求
+
+这里我打算借一下hugging face的license签署功能，将数据陆续发布到hugging face上。
+
+当然另一方面一周前hf国内访问挂过一次，github和百度盘也会去做备份。
+
+后续考虑发布的数据集：WizardLM的翻译，CoQA的翻译， CNewSum的Embedding数据等等
+
+---
+
+## 关于骆驼
+
+我们在积极寻求服务器资源（A100，A800的服务器）的捐赠，当然你也可以去我们的项目页找到[赞助链接](https://github.com/LC1332/Luotuo-Chinese-LLM#sponsorship)来对我们进行支持。所有的赞助资源将会用在服务器资源的购买、数据的获取、社区的正常运维（腾讯会议开始收费了）和周边的发放。
+
+骆驼是我们的个人作业项目。如果你感觉这个文章对你有帮助，也欢迎到我们的[骆驼项目主页](https://github.com/LC1332/Luotuo-Chinese-LLM)为我们点上star。如果您没有github账号，也可以在知乎直接点赞。谢谢～
