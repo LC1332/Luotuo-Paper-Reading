@@ -12,6 +12,8 @@
 
 ---
 
+## 以alpaca为关键字搜索
+
 首先是我们昨天自己上传的数据集
 
 [https://huggingface.co/datasets/silk-road/Vanilla-chinese-alpaca-luotuo](https://huggingface.co/datasets/silk-road/Vanilla-chinese-alpaca-luotuo)
@@ -25,19 +27,26 @@
 我搜了一下，HuggingFace上面涉及Chinese的数据集只有287个，基本上都看看，应该就不容易漏了吧
 
 
+---
 
- <p align="center">
-    <img src="images/image001.png" height="250">
+<p align="center">
+    <img src="images/image001.png" height="350">
 </p>
 
 
-https://huggingface.co/datasets/silk-road/Vanilla-chinese-alpaca-luotuo
+[https://huggingface.co/datasets/silk-road/Vanilla-chinese-alpaca-luotuo](https://huggingface.co/datasets/silk-road/Vanilla-chinese-alpaca-luotuo)
 
 不才，正式在下。。
 
 这个是我们在骆驼项目的第一批数据 噪音还是挺多的。我最近升级了翻译脚本，我们后期的数据集翻译的准确率会提升很多。
 
-https://huggingface.co/datasets/shibing624/alpaca-zh
+
+<p align="center">
+    <img src="images/image002.png" height="350">
+</p>
+
+
+[https://huggingface.co/datasets/shibing624/alpaca-zh](https://huggingface.co/datasets/shibing624/alpaca-zh)
 
 这个作者声称是5万GPT4要来的数据。
 
@@ -50,17 +59,25 @@ https://huggingface.co/datasets/c-s-ale/alpaca-gpt4-data-zh
 
 这个感觉和我们的好像。。我看了这个比第二个的噪音多
 
-
+<p align="center">
+    <img src="images/image003.png" height="350">
+</p>
+ 
 
 https://huggingface.co/datasets/Chinese-Vicuna/guanaco_belle_merge_v1.0
 
-这个合并了Guanaco和Belle的数据集
+这个合并了Guanaco和Belle的数据集，这个有6M条
 
+
+
+---
+
+## 以QA为关键字搜索
+
+<p align="center">
+    <img src="images/image004.png" height="350">
+</p>
  
-
-这个有6M条
-
-
  
 https://huggingface.co/datasets/FreedomIntelligence/huatuo_encyclopedia_qa
 
@@ -75,8 +92,14 @@ https://huggingface.co/datasets/wavpub/JinJinLeDao_QA_Dataset
 18.7k 很短的问答 感觉价值不大
 
 
+---
+
+## BELLE Group
 
 
+<p align="center">
+    <img src="images/image005.png" height="350">
+</p>
  
 
 BELLE组的各种数据，这个很强，直接看他们hf主页吧
@@ -85,23 +108,35 @@ https://huggingface.co/BelleGroup
 
 他们有2M CN和1M CN的 还有0.4M 的chat。0.8M的多轮Chat
 
+---
 
 
 https://huggingface.co/datasets/sunzeyeah/chinese_chatgpt_corpus
 
 这个我没有完全看懂，但是也是一个5M级别的问答数据
 
- 
+<p align="center">
+    <img src="images/image006.png" height="350">
+</p>
+
+
+---
+
 
 
 https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset
 
 110113中文医疗query的数据
 
- 
+<p align="center">
+    <img src="images/image007.png" height="350">
+</p>
+
+---
 
 
-Wiki
+
+## Wiki
 
 https://huggingface.co/datasets/zetavg/zh-tw-wikipedia
 
